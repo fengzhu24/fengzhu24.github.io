@@ -18,4 +18,4 @@ Distributed Systems
 
 Current Work
 ======
-Currently, I‘m working on the interdomain congestion measurement. Interdomain congestion happens between different internet service providers and affects millions of users. We are developing a new congestion measurement system utilizing users’ speed test data around the world to significantly reduce internet latency.
+Currently, I'm working on the interdomain congestion measurement. Interdomain congestion happens between different internet service providers and affects millions of users. We are developing a new congestion measurement system utilizing users’ speed test data around the world to significantly reduce internet latency.
