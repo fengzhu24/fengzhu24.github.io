@@ -12,9 +12,9 @@ I am a Ph.D. Student in Computer Science at Georgia tech, advised by [Prof. Albe
 
 Reserch Interests
 ======
-Internet Measurement \\ 
-Network Measurement Systems \\
-Distributed Systems \\
+Internet Measurement  
+Network Measurement Systems  
+Distributed Systems 
 
 Current Work
 ======
